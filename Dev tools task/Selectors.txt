@@ -1,0 +1,10 @@
+Website used - github's signup page
+
+Email section - #email
+Password - #password
+Username - #login
+
+Continue with Google button - #social-login-buttons-container > form:nth-child(1) > button
+Continue with Apple button - #social-login-buttons-container > form:nth-child(2) > button
+
+Your country/region dropdown button - #country-dropdown-panel-button
